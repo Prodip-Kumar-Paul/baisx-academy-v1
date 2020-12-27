@@ -1,0 +1,95 @@
+/* Navbar Start */
+.register-btn {
+  margin-right: 2.5px;
+  margin-bottom: 5px;
+}
+.nav-item{
+  padding-left: .5rem;
+}
+
+.custom-navbar-container {
+  width: 90%;
+}
+.deco{
+  text-decoration: none;
+  padding-top: .5rem;
+  color: #C5C5C3 ;
+}
+
+/* Navbar End */
+
+/* body start */
+
+body {
+  background-color:#F5F5DC;
+}
+
+img{
+  width: 100%;
+  height: auto;
+  margin-bottom: 4rem;
+}
+.text2{
+  text-align: center;
+  font-family: serif;
+}
+.text3{
+  margin-bottom: 2rem;
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+.text4{
+  padding-bottom: 1rem;
+}
+/* body end */
+
+/* footer start */
+
+footer {
+  background-color: #272727;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: -1rem;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+.fab {
+  font-size: 2rem;
+  margin: 1rem 0.5rem;
+
+}
+
+.fa-facebook {
+  color: #1873EB;
+}
+
+.fa-whatsapp-square {
+  color: #50C45F
+}
+
+.fa-instagram {
+  color: #C02899;
+}
+
+.fa-youtube {
+  color: #F70000;
+}
+
+.fa-twitter {
+  color: #009DED;
+}
+
+.copyright {
+  color: white;
+  font-size: 1.1rem;
+}
+
+.developer {
+  color: white;
+  padding-bottom: 1rem;
+  font-size: .8rem;
+}
+/* Faculties End*/
